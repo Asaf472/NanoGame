@@ -1,0 +1,1 @@
+C:\Users\nicom\Desktop\Java\jdk1.8.0_102\bin\xjc.exe -p jaxb.schema.generated Resources/Gridler.xsd
